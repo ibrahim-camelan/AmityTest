@@ -50,6 +50,6 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 
-    implementation "com.github.AmityCo.Amity-Social-Cloud-SDK-Android:amity-sdk:5.17.0"
+    implementation "com.github.AmityCo.Amity-Social-Cloud-SDK-Android:amity-sdk:5.30.0"
 
 }
